@@ -1,4 +1,4 @@
-# ⏰ 🚀 📈 Golang lambda running on a recurring schedule
+# ⏰ 🚀 📈 AWS lambda running on a recurring schedule (Golang)
 
 ## Installation
 
